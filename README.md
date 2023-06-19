@@ -5,4 +5,4 @@ The repository only consists of the final pipeline used to train the LDA Model a
 
 The Granger Causality test and the associated data preparation can be found in "granger_causality.ipynb". The results of the tests are provided in the corresponding txt-files. Please note, that only test results for significant topics / variables are provided.
 
-The Spearman-Correlation analysis has been implemented using STATA. The Do-File code is presented in "Do file 20230515.docx".
+The Spearman-Correlation analysis has been implemented using STATA. The Do-File code is presented in "Do file 20230515.pdf".
