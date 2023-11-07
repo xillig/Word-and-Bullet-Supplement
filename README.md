@@ -5,6 +5,6 @@ The repository only consists of the final pipeline used to train the LDA Model a
 
 The Granger Causality test and the associated data preparation can be found in "granger_causality.ipynb". The results of the tests are provided in the corresponding txt-files. Please note, that only test results for significant topics / variables are provided.
 
-The Spearman-Correlation analysis has been implemented using STATA. The Do-File code is presented in "Do file 20230515.pdf".
+The Spearman-Correlation analysis has been implemented using STATA. The Do-File code is presented in "Do file monthly targeting data and correlation tests.pdf".
 
 A detailed explaination on the technical implementations of the NLP-Pipeline can be found in "Technical_Annex_on__The_Word_and_the_Bullet__Out_Grouping_and_Threat_Framing_as_Predictors_of_Terrorist_Targeting_by_ISIS__2015_2019_.pdf"
