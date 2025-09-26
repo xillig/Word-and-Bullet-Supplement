@@ -1,0 +1,41 @@
+Topic 2:
+
+
+
+sumFar
+
+None
+
+
+
+sumNear
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=3.3096  , p=0.0439  , df_denom=55, df_num=2
+ssr based chi2 test:   chi2=7.2210  , p=0.0270  , df=2
+likelihood ratio test: chi2=6.8185  , p=0.0331  , df=2
+parameter F test:         F=3.3096  , p=0.0439  , df_denom=55, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.5535  , p=0.0654  , df_denom=52, df_num=3
+ssr based chi2 test:   chi2=8.6919  , p=0.0337  , df=3
+likelihood ratio test: chi2=8.1083  , p=0.0438  , df=3
+parameter F test:         F=2.5535  , p=0.0654  , df_denom=52, df_num=3
+
+
+sumPeshmerga
+
+None
+
+
+sumRawafid
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=2.0379  , p=0.0909  , df_denom=46, df_num=5
+ssr based chi2 test:   chi2=12.6261 , p=0.0271  , df=5
+likelihood ratio test: chi2=11.4050 , p=0.0439  , df=5
+parameter F test:         F=2.0379  , p=0.0909  , df_denom=46, df_num=5
+

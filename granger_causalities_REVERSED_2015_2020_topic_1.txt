@@ -1,0 +1,50 @@
+REVERSED Topic 1:
+
+
+
+sumFar
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=3.7413  , p=0.0165  , df_denom=52, df_num=3
+ssr based chi2 test:   chi2=12.7349 , p=0.0052  , df=3
+likelihood ratio test: chi2=11.5309 , p=0.0092  , df=3
+parameter F test:         F=3.7413  , p=0.0165  , df_denom=52, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=3.3486  , p=0.0168  , df_denom=49, df_num=4
+ssr based chi2 test:   chi2=15.8544 , p=0.0032  , df=4
+likelihood ratio test: chi2=14.0159 , p=0.0072  , df=4
+parameter F test:         F=3.3486  , p=0.0168  , df_denom=49, df_num=4
+
+
+
+
+sumNear
+
+None
+
+
+
+sumPeshmerga
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.3267  , p=0.0854  , df_denom=52, df_num=3
+ssr based chi2 test:   chi2=7.9198  , p=0.0477  , df=3
+likelihood ratio test: chi2=7.4315  , p=0.0593  , df=3
+parameter F test:         F=2.3267  , p=0.0854  , df_denom=52, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=2.2605  , p=0.0760  , df_denom=49, df_num=4
+ssr based chi2 test:   chi2=10.7029 , p=0.0301  , df=4
+likelihood ratio test: chi2=9.8222  , p=0.0435  , df=4
+parameter F test:         F=2.2605  , p=0.0760  , df_denom=49, df_num=4
+
+
+
+sumRawafid
+
+None
